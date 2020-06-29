@@ -7,8 +7,8 @@ He is a teacher for chemistry at a school. As he got a cancer diagnosis, he want
 * His brother in Law is officer at the DEA
 * His partner is Jesse Pinkman
 * His personality changes heavily
-<p>As Walter White says:
-> I'm not in danger - I AM the danger!!</p>
+<p>As Walter White says:</p>
+> I'm not in danger - I AM the danger!!
 <br />
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Walter_White2.jpg/220px-Walter_White2.jpg" alt="Walter White" />
 
