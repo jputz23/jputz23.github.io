@@ -6,6 +6,7 @@ He is a teacher for chemistry at a school. As he got a cancer diagnosis, he want
 * His wife Skyler is played by Anna Gunn
 * His brother in Law is officer at the DEA
 * His partner is Jesse Pinkman
+* He makes business with Gustavo Fring
 * His personality changes heavily
 <p>As Walter White says:</p>
 > I'm not in danger - I AM the danger!!
