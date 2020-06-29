@@ -8,7 +8,7 @@ He is a teacher for chemistry at a school. As he got a cancer diagnosis, he want
 * His partner is Jesse Pinkman
 * He makes business with Gustavo Fring
 * His personality changes heavily
-###As Walter White says:
+### As Walter White says:
 > I'm not in danger - I AM the danger!!
 <br /><br />
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Walter_White2.jpg/220px-Walter_White2.jpg" alt="Walter White" />
